@@ -8,7 +8,7 @@ ms.locfileid: "138381284"
 trigger:
 - '*'
 pool:
-  vmImage: 'windows-latest'
+  vmImage: windows-latest
   demands:
   - npm
 variables:
